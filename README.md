@@ -1,2 +1,2 @@
 # Study_Baekjoon
-## REALLY?
+## 공부해라 현석아
